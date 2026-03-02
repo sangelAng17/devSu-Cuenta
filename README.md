@@ -203,6 +203,13 @@ Hereda de Persona:
   "estado": true
 }
 ```
+
+# DIAGRAMA ARQUITECTURA/CLASES
+
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/5c71f7e0-ba3c-4877-b721-7ec8c69f1a66" />
+
+
+
 ## DOCUMENTACION CON SWAGGER
 
 ### Cuenta/movimientos
