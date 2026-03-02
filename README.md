@@ -199,9 +199,17 @@ Hereda de Persona:
   "estado": true
 }
 ```
-## 🗄️ Base de Datos
+## DOCUMENTACION CON SWAGGER
 
-Se debe generar un script SQL con la estructura completa de la base de datos:
+### Cuenta/movimientos
 
-```sql
-BaseDatos.sql
+http://localhost:8081/swagger-ui/index.html#/
+<img width="1902" height="814" alt="image" src="https://github.com/user-attachments/assets/538c2e3c-185d-412c-bcde-6dd480f3419f" />
+
+### Cliente
+
+## PRUEBAS UNITARIAS 
+### Cuenta/movimientos
+http://localhost:63342/cliente-service/target/site/jacoco/com.devsu.cliente.application/ClienteService.html
+<img width="943" height="268" alt="image" src="https://github.com/user-attachments/assets/0bd76328-6ab1-434a-8952-c87a77ce3f5b" />
+
